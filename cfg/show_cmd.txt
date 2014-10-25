@@ -1,0 +1,20 @@
+show system uptime | no-more
+show version | no-more
+show configuration | no-more
+show configuration | display set | no-more
+show chassis hardware | no-more
+show chassis environment | no-more
+show chassis routing-engine | no-more
+show virtual-chassis | no-more
+show virtual-chassis vc-port | no-more
+show ethernet-switching table brief | no-more
+show arp | no-more
+show lacp interfaces | no-more
+show route | no-more
+show vlans detail | no-more
+show interfaces terse | no-more
+show interfaces extensive | no-more
+show system commit | no-more
+show firewall | no-more
+show log messages.0.gz | no-more
+show log messages | no-more

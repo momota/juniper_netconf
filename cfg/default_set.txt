@@ -1,0 +1,3 @@
+set system location building "HOGE-Building_lab-room"
+set system location floor 18
+set system location rack 002
